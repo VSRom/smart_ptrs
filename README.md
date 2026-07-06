@@ -1,5 +1,7 @@
 # Custom Smart Pointers Library (C++11/14/17)
 
+[![CI](https://github.com/VSRom/smart_ptrs/actions/workflows/ci.yml/badge.svg)](https://github.com/VSRom/smart_ptrs/actions)
+
 ## Реализовано
 
 *  Использование класса **`atomic`** для использования в многопоточности.

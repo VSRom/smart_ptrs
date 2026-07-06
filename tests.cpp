@@ -3,7 +3,7 @@
 #include <thread>
 #include <vector>
 // Предполагаем, что ваш код лежит в файле "my_smart_pointers.hpp"
-#include "my_smart_pointers.hpp" 
+#include "srt-ptr.h" 
 
 void test_unique_ptr() {
     std::cout << "Running myUnique_ptr tests..." << std::endl;
